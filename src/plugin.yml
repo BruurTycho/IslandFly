@@ -1,0 +1,5 @@
+name: IslandFly
+main: islandFly.IslandFly
+version: 1.0
+depend: [ASkyBlock]
+authors: [BruurTycho, SupPixel, FinnT730]
